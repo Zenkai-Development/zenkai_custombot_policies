@@ -1,6 +1,6 @@
-📜 Custom Bot Service Policies
+# 📜 Custom Bot Service Policies
 
-💳 Payment & Refund Policy
+## 💳 Payment & Refund Policy
 
 - Full or partial payment once completed is considered final.
 - Refunds will not be provided without a valid and strong reason.
@@ -18,7 +18,7 @@ Refunds will NOT be accepted for reasons such as:
 
 ---
 
-🎫 Communication Policy
+## 🎫 Communication Policy
 
 - All important discussions regarding:
   
@@ -38,7 +38,7 @@ Refunds will NOT be accepted for reasons such as:
 
 ---
 
-🖥️ Dedicated Bot Policy
+## 🖥️ Dedicated Bot Policy
 
 - Every custom bot is dedicated for one server only.
 - The purchased setup/license is only valid for the server it was made for.
@@ -47,7 +47,7 @@ Refunds will NOT be accepted for reasons such as:
 
 ---
 
-🌐 Hosting Policy
+## 🌐 Hosting Policy
 
 - Hosting charges are separate unless clearly mentioned otherwise.
 - Delayed hosting payments may result in:
@@ -59,7 +59,7 @@ Refunds will NOT be accepted for reasons such as:
 
 ---
 
-🎨 Customization & Credits Policy
+## 🎨 Customization & Credits Policy
 
 - Bot profile picture, banner, embeds, colors, emojis, and overall branding can be customized according to your preferences.
 - Large feature changes after development has started may require additional charges.
@@ -96,7 +96,7 @@ Credit Removal
 
 ---
 
-🔒 Ownership & Security Policy
+## 🔒 Ownership & Security Policy
 
 - Attempting to leak, resell, redistribute, or claim our work as your own may result in immediate service termination without refund.
 
@@ -126,7 +126,7 @@ may result in immediate termination of services without refund.
 
 ---
 
-⏳ Delivery Time
+## ⏳ Delivery Time
 
 Delivery time depends on:
 
@@ -139,20 +139,20 @@ Delivery time depends on:
 
 ---
 
-📌 User Responsibility
+## 📌 User Responsibility
 
 - Clients must provide proper server permissions and clear requirements.
 - Delays caused due to missing information from the client side are not our responsibility.
 
 ---
 
-✅ Policy Acceptance
+## ✅ Policy Acceptance
 
 Purchasing our services means you automatically agree to all the policies listed above.
 
 ---
 
-📎 Need Help or More Information?
+## 📎 Need Help or More Information?
 
 Join Our Support Server
 
