@@ -1,124 +1,104 @@
-Custom Bot Service Policies
+📜 Custom Bot Service Policies
 
-1. Payment & Refund Policy
+💳 Payment & Refund Policy
 
 - Full or partial payment once completed is considered final.
-
 - Refunds will not be provided without a valid and strong reason.
 
-- Refunds will not be accepted for reasons such as:
-  
-  - no longer interested
-  - changed mind
-  - friend/team denied the purchase
-  - server became inactive
-  - personal decision changes
-  - no longer needed the service
+Refunds will NOT be accepted for reasons such as:
 
-- If work has already been started, setup completed, assets purchased, or development initiated, refund requests may be denied completely.
+- No longer interested
+- Changed mind
+- Friend/team denied the purchase
+- Server became inactive
+- Personal decision changes
+- No longer needed the service
 
-- In rare cases of confirmed service failure from our side, compensation or partial refund may be discussed.
+«If development, setup, or configuration has already started, refund requests may be denied completely.»
 
 ---
 
-2. Communication Policy
+🎫 Communication Policy
 
-- Every important discussion regarding:
+- All important discussions regarding:
   
   - payments
-  - changes
-  - support
   - updates
-  - bugs
+  - support
   - hosting
+  - bugs
   - transfers
   - ownership
   
   must happen inside the official support ticket only.
 
-- Discussions done in DMs or outside tickets may not be considered valid proof in disputes.
+- Messages outside support tickets may not be considered as valid proof during disputes.
 
 - Staff members are not responsible for missed information shared outside tickets.
 
 ---
 
-3. Dedicated Bot Policy
+🖥️ Dedicated Bot Policy
 
 - Every custom bot is dedicated for one server only.
-- The bot license/setup is valid only for the server it was purchased for.
-- If you want the same bot in additional servers, extra hosting and maintenance costs will apply.
-- Additional server usage may increase pricing depending on resources and features required.
+- The purchased setup/license is only valid for the server it was made for.
+- Adding the same bot to additional servers may require additional charges.
+- Hosting costs may increase depending on server count and resource usage.
 
 ---
 
-4. Hosting Policy
+🌐 Hosting Policy
 
-- Hosting charges are separate unless mentioned otherwise.
-
+- Hosting charges are separate unless clearly mentioned otherwise.
 - Delayed hosting payments may result in:
-  
   - temporary suspension
-  - feature limitations
-  - bot offline status
+  - limited features
+  - bot downtime/offline status
 
-- We are not responsible for downtime caused by:
-  
-  - Discord outages
-  - hosting provider issues
-  - API/service limitations
-  - third-party failures
+«We are not responsible for outages caused by Discord, hosting providers, APIs, or third-party services.»
 
 ---
 
-5. Customization & Credits Policy
+🎨 Customization & Credits Policy
 
-- Bot profile picture, banner, branding style, embeds, colors, emojis, and overall appearance can be customized according to your preferences.
+- Bot profile picture, banner, embeds, colors, emojis, and overall branding can be customized according to your preferences.
+- Large feature changes after development has started may require additional charges.
 
-- Major feature changes after development has started may require additional charges.
+Minor credits may remain in places such as:
 
-- Extremely large feature additions may increase delivery time.
+- Support server buttons
+- Bot info commands
+- Credits/help sections
+- Bot bio/about section
+- Small footer texts
 
-- Some minor Zenkai credits may remain in certain places such as:
+Credits may include:
+
+- "Powered by Zenkai"
+- "Managed by Zenkai"
+- Support server references
+
+«These are small acknowledgments used for maintenance, support, and service identification.»
+
+Credit Removal
+
+- Minor Zenkai credits are included by default.
+
+- Complete removal of:
   
-  - support server buttons
-  - bot info commands
-  - credits/help sections
-  - bot bio/about section
-  - small footer credits
-
-- Credits may include mentions like:
+  - branding
+  - support references
+  - footer texts
+  - bio mentions
+  - acknowledgment texts
   
-  - “Powered by Zenkai”
-  - “Managed by Zenkai”
-  - support server references
-
-- These credits are small/minor and mainly used for:
-  
-  - support purposes
-  - maintenance
-  - service identification
-  - development acknowledgment
-
-- Minor Zenkai credits are included by default in custom bot services.
-
-- If a client wants complete removal of all Zenkai references, credits, support links, bot bio mentions, footer texts, or branding acknowledgments, additional charges will apply.
-
-- Credit removal pricing depends on:
-  
-  - service type
-  - bot size
-  - feature complexity
-  - branding modifications required
-
-- Credit removal does not transfer ownership of protected systems, private modules, or internal development assets unless explicitly agreed upon.
+  may require additional charges.
 
 ---
 
-6. Ownership & Security Policy
+🔒 Ownership & Security Policy
 
-- Attempting to leak, resell, copy, redistribute, or claim our work as your own may lead to service termination without refund.
-
-- Source files, premium systems, private modules, and protected systems remain under Zenkai ownership unless explicitly included in the deal.
+- Attempting to leak, resell, redistribute, or claim our work as your own may result in immediate service termination without refund.
 
 - All custom bots are provided directly by Team Zenkai.
 
@@ -126,53 +106,56 @@ Custom Bot Service Policies
 
 - Users will not receive their own separate developer application/token for the bot.
 
-- This helps maintain:
-  
-  - proper security
-  - stable hosting
-  - protected systems
-  - safe bot management
-  - service authenticity
+This helps maintain:
 
-- Any attempt to:
-  
-  - leak protected files,
-  - misuse hosting,
-  - bypass protections,
-  - share confidential systems,
-  - or damage services
-  
-  may result in immediate termination of services without refund.
+- Proper security
+- Stable hosting
+- Protected systems
+- Safe bot management
+- Service authenticity
 
----
+Any attempt to:
 
-7. Delivery Time
+- Leak protected files
+- Misuse hosting
+- Bypass protections
+- Share confidential systems
+- Damage services
 
-- Delivery time depends on:
-  
-  - feature complexity
-  - current workload
-  - client response speed
-  - testing requirements
-
-- Exact ETA is not guaranteed unless specifically agreed upon.
+may result in immediate termination of services without refund.
 
 ---
 
-8. User Responsibility
+⏳ Delivery Time
 
-- Clients must provide proper permissions, required server access, and clear requirements.
-- Delays caused by missing information from the client side are not our responsibility.
+Delivery time depends on:
+
+- Feature complexity
+- Current workload
+- Client response speed
+- Testing requirements
+
+«Exact ETA is not guaranteed unless specifically agreed upon.»
 
 ---
 
-9. Policy Acceptance
+📌 User Responsibility
 
-- Purchasing our services means you automatically agree to all the policies listed above.
+- Clients must provide proper server permissions and clear requirements.
+- Delays caused due to missing information from the client side are not our responsibility.
 
 ---
 
-Minor Credits
+✅ Policy Acceptance
 
-Managed and maintained by Zenkai
-Support Server: https://discord.gg/3zvKDmNcRZ
+Purchasing our services means you automatically agree to all the policies listed above.
+
+---
+
+📎 Need Help or More Information?
+
+Join Our Support Server
+
+https://discord.gg/3zvKDmNcRZ
+
+Managed & Maintained by Zenkai
